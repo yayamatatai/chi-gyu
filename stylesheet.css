@@ -1,0 +1,110 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: "Hiragino Kaku Gothic ProN", sans-serif;
+}
+
+a {
+  text-decoration: none;
+}
+
+header {
+  height: 65px;
+  width: 100%;
+  background-color: rgba(34, 49, 52, 0.9);
+  position :fixed;
+  z-index: 10;
+}
+
+.logo {
+  width: 45px;
+  margin-top: 10px;
+}
+
+.top a {
+  color:white;
+  font-size: 20px;
+  line-height: 65px;
+  float: left;
+  margin:0 10px 0 30px;
+}
+
+.caption {
+  background-image: url(https://www.pakutaso.com/shared/img/thumb/macbook1998_TP_V.jpg);
+  background-size: cover;
+  padding: 180px 0 135px 0;
+}
+
+.caption {
+  color: white;
+  text-align: center;
+}
+
+.caption h1 {
+  opacity: 0.8;
+  letter-spacing: 1px;
+  font-size: 40px;
+}
+
+.intro {
+  height: 1500px;
+  background-color: #e2e2e2;
+  text-align: center;
+}
+
+.heading {
+  padding: 15px 0 70px 0;
+  font-size:25px;
+}
+
+.part {
+  float:left;
+}
+
+.screen {
+  width:100%;
+  flex:auto;
+  padding-bottom: 100px;
+}
+
+.pic {
+  width:50%
+}
+
+.heading h2 {
+  font-weight: normal;
+  opacity: 0.7;
+  color: rgb(39, 39, 39);
+}
+
+.members {
+  background-color: rgb(46, 46, 46);
+  height: 1000px;
+  color:#ffffff;
+}
+
+.members h2 {
+  text-align: center;
+  margin:0;
+  padding: 50px 0 70px 0;
+  font-size:35px;
+  font-weight: normal;
+  opacity: 0.7;
+}
+
+.member {
+  float: left;
+  width: 50%;
+  padding:10px 10%;
+}
+
+.name {
+  font-size: 25px;
+}
+
+.names {
+  line-height: 0%;
+}
