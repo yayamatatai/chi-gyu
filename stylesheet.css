@@ -61,7 +61,7 @@ header {
 }
 
 .part {
-  float:left;
+  text-align:center;
 }
 
 .screen {
@@ -76,7 +76,6 @@ header {
 .comment {
   width:75%;
   display: inline-block;
-  text-align:center;
   white-space:normal;
 }
 
