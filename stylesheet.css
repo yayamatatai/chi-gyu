@@ -74,9 +74,8 @@ header {
 }
 
 .comment {
-  width:75%;
+  width:50%;
   display: inline-block;
-  white-space:normal;
 }
 
 .heading h2 {
