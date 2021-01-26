@@ -70,7 +70,7 @@ header {
 
 .screen {
   flex:auto;
-  padding-bottom: 200px;
+  margin-bottom: 200px;
   
 }
 
@@ -92,7 +92,7 @@ header {
 
 .members h2 {
   text-align: center;
-  margin-top:20px;
+  margin-top:0px;
   padding: 50px 0 70px 0;
   font-size:35px;
   font-weight: normal;
