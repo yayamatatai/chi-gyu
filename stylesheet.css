@@ -54,7 +54,7 @@ header {
 }
 
 .intro {
-  height: 2000px;
+  height: 1500px;
   background-color: #e2e2e2;
   text-align: center;
 }
@@ -70,7 +70,7 @@ header {
 
 .screen {
   flex:auto;
-  margin-bottom: 200px;
+  padding-bottom: 20px;
   
 }
 
