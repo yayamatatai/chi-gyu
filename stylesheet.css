@@ -76,7 +76,7 @@ header {
 .screen p {
   width:50%;
   display: inline-block;
-  line-height:5px;
+  line-height:1px;
 }
 
 .heading h2 {
