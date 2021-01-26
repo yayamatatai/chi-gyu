@@ -76,6 +76,7 @@ header {
 
 .comment {
   width:75%;
+  display: inline-block;
 }
 
 .heading h2 {
