@@ -54,7 +54,7 @@ header {
 }
 
 .intro {
-  height: 1200px;
+  height: 2000px;
   background-color: #e2e2e2;
   text-align: center;
 }
@@ -115,5 +115,5 @@ header {
 }
 
 .mail {
-  font-size:15px;
+  font-size:10px;
 }
